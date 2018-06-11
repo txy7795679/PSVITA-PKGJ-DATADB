@@ -7,3 +7,4 @@ url_updates https://raw.githubusercontent.com/Alex4nder001/PSVITA-PKGJ-DATADB/ma
 url_dlcs https://raw.githubusercontent.com/Alex4nder001/PSVITA-PKGJ-DATADB/master/PSV_DLCS.tsv
 url_psx_games https://raw.githubusercontent.com/Alex4nder001/PSVITA-PKGJ-DATADB/master/PSX_GAMES.tsv
 
+Unfortunately this repo probably won't be updated...
