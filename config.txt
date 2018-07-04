@@ -1,5 +1,5 @@
-url_games https://nopaystation.com/tsv/PSV_GAMES.tsv
-url_updates https://nopaystation.com/tsv/PSV_UPDATES.tsv
-url_dlcs https://nopaystation.com/tsv/PSV_DLCS.tsv
-url_psx_games https://nopaystation.com/tsv/PSX_GAMES.tsv
-url_psp_games https://nopaystation.com/tsv/PSP_GAMES.tsv
+url_games http://raw.githubusercontent.com/Alex4nder001/PSVITA-PKGJ-DATADB/master/PSV_GAMES.tsv
+url_updates http://raw.githubusercontent.com/Alex4nder001/PSVITA-PKGJ-DATADB/master/PSV_UPDATES.tsv
+url_dlcs http://raw.githubusercontent.com/Alex4nder001/PSVITA-PKGJ-DATADB/master/PSV_DLCS.tsv
+url_psx_games http://raw.githubusercontent.com/Alex4nder001/PSVITA-PKGJ-DATADB/master/PSX_GAMES.tsv
+url_psp_games http://raw.githubusercontent.com/Alex4nder001/PSVITA-PKGJ-DATADB/master/PSP_GAMES.tsv
