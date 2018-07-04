@@ -9,3 +9,4 @@ url_psx_games http://raw.githubusercontent.com/Alex4nder001/PSVITA-PKGJ-DATADB/m
 url_psp_games http://raw.githubusercontent.com/Alex4nder001/PSVITA-PKGJ-DATADB/master/PSP_GAMES.tsv
 
 I do not plan to update this unless either PKGJ adds support for more types of download types.
+This is mainly for personal use but I made it publicly available just to keep this repo alive and to help out others who can't access NPS for whatever reason.
